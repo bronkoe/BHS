@@ -1,0 +1,29 @@
+
+1.1 Zielgruppe bestimmen
+  - Alle produzierenden Kunden der BHS  
+    -> Geschäftsführung bis zum Arbeiter
+  - Vertriebler der BHS
+ #Interview: Welche Arbeiter brauchen ein Dashboard (Schichtleiter, Bandarbeiter, etc.)?
+ 
+ 1.2 Endanwendungszweck und Benutzertypen
+ - Endanwendungszweck:
+    - Kontrolle der Produktion (Soll-Ist-Zustand)
+    - Berichterstattung mit unterschiedlichen Detaillierungsebenen (Jahr-Stunde)
+    - Kommunikation mit Kunden
+    - Weiternutzung und mögliche Erweiterungen in den Datamarts
+  
+  - Benutzertypen: 
+      - Geschäftsführung
+      - Fließbandarbeiter
+      - Schichtleiter
+      - Techniker
+  #Interview: Überprüfung der überlegten Benutzertypen, weiterer Endanwendungszweck?
+  
+  2.1 IST-Zustand bestimmen
+ - Verfügbare Daten und Datenmodelle unbekannt
+ - Keine Datamarts
+ - keine bisher IBCS konforme Berichte, aber vorhanden 
+ - Styleguide vorhanden, sowie Vorschläge fürs Dashboard
+ - Anforderungen unbekannt
+ - genaue Vorstellungen der Stakeholder unbekannt
+ - 
